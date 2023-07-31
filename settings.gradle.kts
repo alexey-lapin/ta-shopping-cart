@@ -1,2 +1,7 @@
-rootProject.name = "ta-shopping-cart"
+dependencyResolutionManagement {
+    repositories {
+        mavenCentral()
+    }
+}
 
+rootProject.name = "ta-shopping-cart"
