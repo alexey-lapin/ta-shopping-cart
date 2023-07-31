@@ -36,5 +36,5 @@ BigDecimal totalPrice = calculator.calculateTotalPrice(cart);
 
 ## Build
 ```shell
-gradlew build
+./gradlew build
 ```
